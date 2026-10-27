@@ -1,0 +1,420 @@
+report,finding_id,chart,measure,unit,group,label,period,value
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Fashion,,32.4
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Beauty,,24.2
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Sports and outdoors,,14.8
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Retail and marketplaces,,14.8
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Pets,,12.8
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Consumer electronics,,12.7
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Home and garden,,12
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Health and wellness,,6.9
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Food and drink,,5.7
+commerce-2026-10,klaviyos-climb,"Websites running Klaviyo, by industry",Share of websites,percent,By industry,Automotive,,4
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Fashion,,19.1
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Beauty,,17
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Retail and marketplaces,,13.7
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Consumer electronics,,12.3
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Sports and outdoors,,10.6
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Pets,,9.9
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Home and garden,,9.3
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Automotive,,3.9
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Health and wellness,,3.6
+commerce-2026-10,reviews-on-the-storefront,"Websites running Judge.me, by industry",Share of websites,percent,By industry,Food and drink,,3.3
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Fashion,,20.2
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Beauty,,17.9
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Retail and marketplaces,,10
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Consumer electronics,,8.7
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Pets,,7.8
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Sports and outdoors,,7.4
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Home and garden,,6.3
+commerce-2026-10,tiktok-in-the-basket,"Websites that load the TikTok pixel, by industry",,percent,,Software and SaaS,,0.8
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Fashion,,4.1
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Beauty,,3.4
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Pets,,1.7
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Sports and outdoors,,1.7
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Consumer electronics,,1.4
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Home and garden,,1.2
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Retail and marketplaces,,1.2
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Health and wellness,,0.9
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Food and drink,,0.5
+commerce-2026-10,help-desks-in-the-shop,"Websites running Gorgias, by industry",Share of websites,percent,By industry,Automotive,,0.4
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Travel and hospitality,30 days to 4 Oct,28.7
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Travel and hospitality,30 days to 18 Oct,38.8
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Food and drink,30 days to 4 Oct,23.3
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Food and drink,30 days to 18 Oct,29.4
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Entertainment and media,30 days to 4 Oct,26.9
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Entertainment and media,30 days to 18 Oct,27.3
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Health and wellness,30 days to 4 Oct,2.7
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Health and wellness,30 days to 18 Oct,2.9
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Finance and insurance,30 days to 4 Oct,0.5
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,Finance and insurance,30 days to 18 Oct,0.8
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,All industries,30 days to 4 Oct,3.9
+hiring-2026-10,holiday-hiring-begins,Hospitality and food roles as a share of each industry's postings,Share of job postings,percent,,All industries,30 days to 18 Oct,4.8
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Entertainment and media,30 days to 4 Oct,3.1
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Entertainment and media,30 days to 18 Oct,4.1
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Software and SaaS,30 days to 4 Oct,2.6
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Software and SaaS,30 days to 18 Oct,3.5
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Finance and insurance,30 days to 4 Oct,1.2
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Finance and insurance,30 days to 18 Oct,1.5
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Professional services,30 days to 4 Oct,1.1
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Professional services,30 days to 18 Oct,1.4
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Real estate,30 days to 4 Oct,0.6
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Real estate,30 days to 18 Oct,1.1
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Health and wellness,30 days to 4 Oct,1.5
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Health and wellness,30 days to 18 Oct,1.4
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Automotive,30 days to 4 Oct,0.8
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,Automotive,30 days to 18 Oct,0.7
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,All industries,30 days to 4 Oct,1.23
+hiring-2026-10,brand-builders-wanted,Brand marketing roles as a share of each industry's postings,Share of job postings,percent,,All industries,30 days to 18 Oct,1.45
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Spotify Ad Analytics,,14.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Affirm,,12.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,PostHog,,12.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Ketch,,10.8
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Contentsquare,,10.5
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Klaviyo,,9.7
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Freshworks,,9.5
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Optimizely,,9.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Reddit Pixel,,9.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,Fastest,Cloudflare Turnstile,,8.4
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Klaviyo,,9.7
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Reddit Pixel,,9.1
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Cloudflare Turnstile,,8.4
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Vercel,,5.5
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,PayPal,,5.4
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Microsoft Clarity,,4.8
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Next.js,,4.4
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Brevo,,3.7
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Trustpilot,,3.2
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Amazon CloudFront,,2.9
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Cookiebot,,2.8
+index-2026-10,fastest-risers,The technologies gaining websites fastest,Growth a month,percent,On 1% of websites or more,Stripe,,2.7
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Salesforce chat,,-5.3
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Criteo,,-4.5
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Taboola,,-3
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,VWO,,-2.1
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Segment,,-1.8
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Outbrain,,-1.5
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Rakuten Advertising,,-1.5
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Gatsby,,-1.2
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Drupal,,-0.6
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Fastest falling,Universal Analytics,,-0.6
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Klaviyo,,9.7
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Microsoft Clarity,,4.8
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Cloudflare,,1.9
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Meta Pixel,,1.6
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Google Ads tag,,1.5
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,WooCommerce,,1.1
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Google Analytics 4,,0.8
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Google reCAPTCHA,,0.8
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Google Tag Manager,,0.8
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Shopify,,0.4
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Mailchimp,,0.1
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,WordPress,,-0.3
+index-2026-10,steepest-fallers,"Growth a month, the fastest falling and the most used",Growth a month,percent,Most used,Universal Analytics,,-0.6
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Fashion,,14.2
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Beauty,,11.6
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Consumer electronics,,11.2
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Home and garden,,10.9
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Software and SaaS,,7.7
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Finance and insurance,,6
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Telecom and utilities,,7.4
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Microsoft Clarity,Food and drink,,3.3
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Fashion,,5
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Beauty,,5
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Consumer electronics,,5.8
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Home and garden,,5.8
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Software and SaaS,,6
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Finance and insurance,,6.7
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Telecom and utilities,,6.7
+martech-2026-10,clarity-passes-hotjar,"Websites running each session recorder, by industry",Share of websites,percent,Hotjar,Food and drink,,2.2
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,PostHog,,6.3
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,Contentsquare,,3.3
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,Microsoft Clarity,,3
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,Optimizely,,2.5
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,Google Analytics 4,,1.8
+martech-2026-10,product-analytics-breaks-out,"Websites that added each tool for each one that removed it, three weeks to 18 October",Added for each removal,ratio,Analytics and testing,Hotjar,,0.9
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Fashion,,79
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Retail,,64.5
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Beauty,,60.3
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Gaming,,56.7
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Electronics,,55.8
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Software,,43.2
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Health,,38.9
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Finance,,37.8
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Travel,,29.4
+monthly-2026-10,the-front-door,"Websites served through Cloudflare, by industry",Share of websites,percent,,Real estate,,28.6
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Vercel,,9.6
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Next.js,,8.9
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Sanity,,7
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Netlify,,3.8
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",HubSpot CMS,,3.7
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Framer,,1.6
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",Webflow,,1.3
+monthly-2026-10,the-nextjs-build,"Websites that added each one for each one that removed it, three weeks to 18 October",Added for each removal,ratio,"Frameworks, hosts and CMSs",WordPress,,0.6
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Nonprofit and public sector,,27.3
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Finance and insurance,,27.2
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Real estate,,26.1
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Telecom and utilities,,25.8
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Travel and hospitality,,25.6
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Automotive,,24
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Professional services,,23.2
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Education,,22
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Health and wellness,,20.5
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Software and SaaS,,19.1
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Retail and marketplaces,,14.6
+monthly-2026-10,the-ghost-tag,"Websites still loading the Universal Analytics tag, by industry",Share of websites,percent,By industry,Fashion,,10.3
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Professional services,,2.2
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Real estate,,1.8
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Travel and hospitality,,1.7
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Education,,1.7
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Telecom and utilities,,1.5
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Software and SaaS,,1.5
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Home and garden,,1.5
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Health and wellness,,1.3
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Finance and insurance,,1.2
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Retail and marketplaces,,0.8
+monthly-2026-10,the-quiet-check,"Websites running Cloudflare Turnstile, by industry",Share of websites,percent,By industry,Fashion,,0.6
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Black Friday,,28 Sep to 4 Oct,0
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Black Friday,,5 to 11 Oct,0.34
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Black Friday,,12 to 18 Oct,0.8
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Black Friday,,19 to 24 Oct,1.56
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Holiday and Christmas,,28 Sep to 4 Oct,1.76
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Holiday and Christmas,,5 to 11 Oct,3.34
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Holiday and Christmas,,12 to 18 Oct,3.56
+monthly-2026-10,black-friday-early,"Shops naming the season on their banner, by week",Share of shops changing their banner,percent,Holiday and Christmas,,19 to 24 Oct,3.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,All industries,All,11.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,All industries,Sells to businesses,8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,All industries,Sells to consumers,12
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,All industries,Sells to both,11.4
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Gaming,All,30.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Gaming,Sells to businesses,11.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Gaming,Sells to consumers,32.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Gaming,Sells to both,15
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Fashion,All,22.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Fashion,Sells to businesses,13.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Fashion,Sells to consumers,23.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Fashion,Sells to both,17.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Software and SaaS,All,22.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Software and SaaS,Sells to businesses,14.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Software and SaaS,Sells to consumers,39.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Software and SaaS,Sells to both,38.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Retail and marketplaces,All,20.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Retail and marketplaces,Sells to businesses,20.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Retail and marketplaces,Sells to consumers,20.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Retail and marketplaces,Sells to both,20.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Consumer electronics,All,20
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Consumer electronics,Sells to businesses,11.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Consumer electronics,Sells to consumers,22.1
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Consumer electronics,Sells to both,22.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Finance and insurance,All,18.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Finance and insurance,Sells to businesses,7.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Finance and insurance,Sells to consumers,21.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Finance and insurance,Sells to both,23.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Nonprofit and public sector,All,17.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Nonprofit and public sector,Sells to businesses,8.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Nonprofit and public sector,Sells to consumers,19.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Nonprofit and public sector,Sells to both,21.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Entertainment and media,All,16.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Entertainment and media,Sells to businesses,9.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Entertainment and media,Sells to consumers,18
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Entertainment and media,Sells to both,15.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Telecom and utilities,All,16.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Telecom and utilities,Sells to businesses,5.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Telecom and utilities,Sells to consumers,24.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Telecom and utilities,Sells to both,20.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Sports and outdoors,All,13.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Sports and outdoors,Sells to businesses,8.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Sports and outdoors,Sells to consumers,14.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Sports and outdoors,Sells to both,11.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Education,All,12.1
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Education,Sells to businesses,11.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Education,Sells to consumers,11.4
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Education,Sells to both,15.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Beauty,All,11.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Beauty,Sells to businesses,11.1
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Beauty,Sells to consumers,11.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Beauty,Sells to both,13.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Home and garden,All,10.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Home and garden,Sells to businesses,7.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Home and garden,Sells to consumers,11.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Home and garden,Sells to both,9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Travel and hospitality,All,8.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Travel and hospitality,Sells to businesses,6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Travel and hospitality,Sells to consumers,9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Travel and hospitality,Sells to both,8.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Automotive,All,8.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Automotive,Sells to businesses,8.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Automotive,Sells to consumers,8.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Automotive,Sells to both,10.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Pets,All,8.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Pets,Sells to businesses,7.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Pets,Sells to consumers,8.4
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Pets,Sells to both,10.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Health and wellness,All,7.4
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Health and wellness,Sells to businesses,7.1
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Health and wellness,Sells to consumers,7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Health and wellness,Sells to both,11.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Real estate,All,4.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Real estate,Sells to businesses,3.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Real estate,Sells to consumers,5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Real estate,Sells to both,5.5
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Food and drink,All,4
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Food and drink,Sells to businesses,5.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Food and drink,Sells to consumers,3.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Food and drink,Sells to both,4.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Professional services,All,3.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Professional services,Sells to businesses,3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Professional services,Sells to consumers,5.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,Top 1 million,Professional services,Sells to both,5.7
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",All industries,All,1.28
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",All industries,Sells to businesses,0.72
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",All industries,Sells to consumers,1.33
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",All industries,Sells to both,1.22
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Gaming,All,5.94
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Gaming,Sells to businesses,1.58
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Gaming,Sells to consumers,6.43
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Gaming,Sells to both,2.35
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Software and SaaS,All,3.9
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Software and SaaS,Sells to businesses,1.8
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Software and SaaS,Sells to consumers,8.49
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Software and SaaS,Sells to both,9.52
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Telecom and utilities,All,3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Telecom and utilities,Sells to businesses,0.39
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Telecom and utilities,Sells to consumers,4.97
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Telecom and utilities,Sells to both,4.11
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Entertainment and media,All,2.68
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Entertainment and media,Sells to businesses,1.27
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Entertainment and media,Sells to consumers,3.15
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Entertainment and media,Sells to both,1.72
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Retail and marketplaces,All,2.59
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Retail and marketplaces,Sells to businesses,1.88
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Retail and marketplaces,Sells to consumers,2.73
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Retail and marketplaces,Sells to both,2.33
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Finance and insurance,All,2.45
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Finance and insurance,Sells to businesses,0.55
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Finance and insurance,Sells to consumers,3.25
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Finance and insurance,Sells to both,3.14
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Consumer electronics,All,2.25
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Consumer electronics,Sells to businesses,0.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Consumer electronics,Sells to consumers,2.61
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Consumer electronics,Sells to both,2.78
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Fashion,All,2.22
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Fashion,Sells to businesses,0.52
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Fashion,Sells to consumers,2.47
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Fashion,Sells to both,0.72
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Nonprofit and public sector,All,2.01
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Nonprofit and public sector,Sells to businesses,0.52
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Nonprofit and public sector,Sells to consumers,2.31
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Nonprofit and public sector,Sells to both,2.95
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Education,All,1.54
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Education,Sells to businesses,1.77
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Education,Sells to consumers,1.3
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Education,Sells to both,2.22
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Travel and hospitality,All,0.95
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Travel and hospitality,Sells to businesses,0.63
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Travel and hospitality,Sells to consumers,1.03
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Travel and hospitality,Sells to both,0.75
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Beauty,All,0.94
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Beauty,Sells to businesses,0.36
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Beauty,Sells to consumers,1.06
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Beauty,Sells to both,0.41
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Sports and outdoors,All,0.84
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Sports and outdoors,Sells to businesses,0.2
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Sports and outdoors,Sells to consumers,0.98
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Sports and outdoors,Sells to both,0.46
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Automotive,All,0.64
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Automotive,Sells to businesses,0.45
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Automotive,Sells to consumers,0.61
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Automotive,Sells to both,0.82
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Home and garden,All,0.56
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Home and garden,Sells to businesses,0.21
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Home and garden,Sells to consumers,0.71
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Home and garden,Sells to both,0.43
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Real estate,All,0.43
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Real estate,Sells to businesses,0.25
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Real estate,Sells to consumers,0.41
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Real estate,Sells to both,0.6
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Health and wellness,All,0.42
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Health and wellness,Sells to businesses,0.27
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Health and wellness,Sells to consumers,0.41
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Health and wellness,Sells to both,0.64
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Pets,All,0.34
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Pets,Sells to businesses,0
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Pets,Sells to consumers,0.34
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Pets,Sells to both,0.56
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Professional services,All,0.31
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Professional services,Sells to businesses,0.16
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Professional services,Sells to consumers,0.33
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Professional services,Sells to both,0.76
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Food and drink,All,0.23
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Food and drink,Sells to businesses,0.16
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Food and drink,Sells to consumers,0.25
+monthly-2026-10,traffic-by-model,"Websites among the most visited, September 2026, by industry and business model",Share of websites in the band,percent,"Top 100,000",Food and drink,Sells to both,0.18
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Education,,0.8
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Retail and marketplaces,,0.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Fashion,,0
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Professional services,,-0.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Telecom and utilities,,-0.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Entertainment and media,,-0.5
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Home and garden,,-1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Software and SaaS,,-1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Finance and insurance,,-1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Nonprofit and public sector,,-1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Health and wellness,,-1.3
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Consumer electronics,,-1.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Gaming,,-1.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Real estate,,-1.8
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Food and drink,,-2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Automotive,,-2.7
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Sports and outdoors,,-3.5
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,All websites,Travel and hospitality,,-8.3
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Nonprofit and public sector,,5.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Home and garden,,3.4
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Education,,3
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Entertainment and media,,2.1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Telecom and utilities,,1.5
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Food and drink,,1.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Real estate,,0.7
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Health and wellness,,0.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Professional services,,0
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Finance and insurance,,-0.5
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Software and SaaS,,-0.9
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Consumer electronics,,-1.4
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to businesses,Automotive,,-1.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Fashion,,0
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Software and SaaS,,-0.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Retail and marketplaces,,-0.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Consumer electronics,,-1.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Gaming,,-1.9
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Education,,-2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Beauty,,-2.1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Entertainment and media,,-2.1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Finance and insurance,,-2.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Health and wellness,,-2.8
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Food and drink,,-2.9
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Telecom and utilities,,-2.9
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Home and garden,,-3.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Automotive,,-3.2
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Real estate,,-4.1
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Nonprofit and public sector,,-4.3
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Sports and outdoors,,-4.6
+monthly-2026-10,traffic-moves,"Websites that moved to a busier band less those that moved to a quieter one, August to September 2026",Moved up less moved down,points,Sells to consumers,Travel and hospitality,,-9.4
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Automotive,30 days to 4 Oct,61.9
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Automotive,30 days to 18 Oct,76.9
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Finance and insurance,30 days to 4 Oct,76.2
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Finance and insurance,30 days to 18 Oct,74
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Telecom and utilities,30 days to 4 Oct,49.5
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Telecom and utilities,30 days to 18 Oct,50
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Health and wellness,30 days to 4 Oct,20.8
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Health and wellness,30 days to 18 Oct,24.3
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Professional services,30 days to 4 Oct,11
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Professional services,30 days to 18 Oct,17.2
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Software and SaaS,30 days to 4 Oct,9.4
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,Software and SaaS,30 days to 18 Oct,10.4
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,All industries,30 days to 4 Oct,41.5
+sales-2026-10,high-volume-selling,"Sales roles selling to small businesses or consumers, by industry",Share of sales postings,percent,,All industries,30 days to 18 Oct,44.3
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Outbound,30 days to 4 Oct,88
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Outbound,30 days to 18 Oct,82.8
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Mixed,30 days to 4 Oct,7.9
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Mixed,30 days to 18 Oct,10.9
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Inbound,30 days to 4 Oct,4.1
+sales-2026-10,inbound-joins-outbound,Where sales postings say a role's leads come from,Share of sales postings,percent,,Inbound,30 days to 18 Oct,6.2
